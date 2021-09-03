@@ -14,7 +14,7 @@
 Days  | Projects
 :-------------------------:  | :-------------------------:
 Day 1 |  [Band Name Generator](https://replit.com/@kemaldemirgil/band-name-generator-start#main.py)
-Day 2 |  
+Day 2 |  [Tip Calculator](https://replit.com/@kemaldemirgil/tip-calculator-start#main.py)
 Day 3 |  
 Day 4 |  
 Day 5 |  
