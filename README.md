@@ -15,7 +15,7 @@ Days  | Projects
 :-------------------------:  | :-------------------------:
 Day 1 |  [Band Name Generator](https://replit.com/@kemaldemirgil/band-name-generator-start#main.py)
 Day 2 |  [Tip Calculator](https://replit.com/@kemaldemirgil/tip-calculator-start#main.py)
-Day 3 |  
+Day 3 |  [Treasure Island](https://replit.com/@kemaldemirgil/treasure-island-start#main.py)
 Day 4 |  
 Day 5 |  
 Day 6 |
