@@ -16,13 +16,20 @@ Days  | Projects
 Day 1 |  [Band Name Generator](https://replit.com/@kemaldemirgil/band-name-generator-start#main.py)
 Day 2 |  [Tip Calculator](https://replit.com/@kemaldemirgil/tip-calculator-start#main.py)
 Day 3 |  [Treasure Island](https://replit.com/@kemaldemirgil/treasure-island-start#main.py)
-Day 4 |  
+Day 4 |  [Rock Paper Scissors](https://replit.com/@kemaldemirgil/rock-paper-scissors-start#main.py)
 Day 5 |  
 Day 6 |
 Day 7 |
 Day 8 | 
 Day 9 |  
 Day 10 |  
+
+
+
+Misc Projects  
+:-------------------------:
+[Tic Tac Toe](https://replit.com/@kemaldemirgil/tic-tac-toe#main.py)
+
 
 
 
