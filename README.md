@@ -19,7 +19,7 @@ Day 3 |  [Treasure Island](https://replit.com/@kemaldemirgil/treasure-island-sta
 Day 4 |  [Rock Paper Scissors](https://replit.com/@kemaldemirgil/rock-paper-scissors-start#main.py)
 Day 5 |  [Password Generator](https://replit.com/@kemaldemirgil/password-generator-start#main.py)
 Day 6 |  [Reeborg's Maze](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
-Day 7 |
+Day 7 |  [Hangman](https://replit.com/@kemaldemirgil/Day-7-Hangman-5-End#main.py)
 Day 8 | 
 Day 9 |  
 Day 10 |  
