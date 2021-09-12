@@ -24,7 +24,7 @@ Days  | Projects
 9 |  [Secret Auction](https://replit.com/@kemaldemirgil/blind-auction-start#main.py)
 10 | [Calculator](https://replit.com/@kemaldemirgil/calculator-final#main.py)
 11 | [Blackjack](https://replit.com/@kemaldemirgil/blackjack-start#main.py)
-12 | []()
+12 | [Guess the Number](https://replit.com/@kemaldemirgil/guess-the-number-start#main.py)
 13 | []()
 14 | []()
 15 | []()
