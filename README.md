@@ -23,7 +23,7 @@ Days  | Projects
 8 |  [Caesar Cipher](https://replit.com/@kemaldemirgil/caesar-cipher?v=1)
 9 |  [Secret Auction](https://replit.com/@kemaldemirgil/blind-auction-start#main.py)
 10 | [Calculator](https://replit.com/@kemaldemirgil/calculator-final#main.py)
-11 | []()
+11 | [Blackjack](https://replit.com/@kemaldemirgil/blackjack-start#main.py)
 12 | []()
 13 | []()
 14 | []()
