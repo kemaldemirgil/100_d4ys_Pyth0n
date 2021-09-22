@@ -119,6 +119,7 @@ Days  | Projects
 Misc Projects  
 :-------------------------:
 [Tic Tac Toe](https://replit.com/@kemaldemirgil/tic-tac-toe#main.py)
+[OOP Blackjack](https://replit.com/@kemaldemirgil/OOPblackjack#main.py)
 
 
 
