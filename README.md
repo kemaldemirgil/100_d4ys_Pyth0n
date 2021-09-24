@@ -30,7 +30,7 @@ Days  | Projects
 15 | [Coffee Machine](https://replit.com/@kemaldemirgil/coffee-machine-start#main.py)
 16 | [OOP Coffee Machine](https://replit.com/@kemaldemirgil/oop-coffee-machine-start#main.py)
 17 | [Quiz Game](https://replit.com/@kemaldemirgil/quiz-game-start#main.py)
-18 | []()
+18 | [Turtle Dot Picture](https://github.com/kemaldemirgil/100_d4ys_Pyth0n/tree/main/apps/Day%2018%20-%20Turtle%20GUI)
 19 | []()
 20 | []()
 21 | []()
