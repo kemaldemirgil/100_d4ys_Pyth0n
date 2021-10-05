@@ -37,7 +37,7 @@ Days  | Projects
 22 | []()
 23 | []()
 24 | []()
-25 | []()
+25 | [US States Game](https://github.com/kemaldemirgil/100_d4ys_Pyth0n/blob/main/apps/Day%2025%20-%20US%20States%20Game/us-states-game/main.py)
 26 | []()
 27 | []()
 28 | []()
